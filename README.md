@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj Ekanayake</h1>
-<h3 align="center">Passionate Full Stack Developer | MERN Enthusiast | Tech Explorer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">IT Undergraduate | Aspiring Full Stack Developer | MERN Enthusiast from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viraj992&label=Profile%20views&color=0e75b6&style=flat" alt="viraj992" />
