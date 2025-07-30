@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 - 🎓 IT Undergraduate | Passionate about full stack development  
 - 💻 Currently working on MERN stack projects & exploring mobile app development  
-- 🌱 Learning Flutter deployment, Angular basics 
+- 🌱 Learning Flutter development, Angular basics 
 - 📫 Reach me: `virajekanayake479@gmail.com`
 
 ---
