@@ -10,8 +10,8 @@
 ### 🧑‍💻 About Me
 - 🎓 IT Undergraduate currently exploring software engineering
 - 💻 Passionate about Full Stack Development (MERN)
-- 🌱 Learning cloud deployment, mobile app dev & testing tools
-- 📫 Reach me: `viraj.brilliant99@gmail.com`
+- 🌱 Learning mobile App development 
+- 📫 Reach me: `virajekanayake479@gmail.com`
 
 ---
 
