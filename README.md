@@ -72,12 +72,9 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj992&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viraj992&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj992&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viraj992&show_icons=true&locale=en" alt="GitHub Stats" width="45%" />
 </p>
 
 ---
