@@ -8,9 +8,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 IT Undergraduate currently exploring software engineering
-- 💻 Passionate about Full Stack Development (MERN)
-- 🌱 Learning mobile App development 
+- 🎓 IT Undergraduate currently exploring software engineering  
+- 💻 Passionate about Full Stack Development (MERN)  
+- 🌱 Learning mobile App development  
 - 📫 Reach me: `virajekanayake479@gmail.com`
 
 ---
@@ -24,7 +24,14 @@
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
-<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> 
+
+</div>
+
+<div align="center" style="margin-top: 10px;">
+
+#### 📱 Mobile Development  
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
 </div>
 
@@ -52,10 +59,7 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> 
 
-
 </div>
-
-
 
 <div align="center" style="margin-top: 10px;">
 
@@ -87,4 +91,18 @@
 
 ---
 
+### 📊 GitHub Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=viraj992&theme=light" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://fb.com/viraj ekanayake" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/viraj.brilliant99" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/rhythm rodz" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" /></a>
+</p>  
