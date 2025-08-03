@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj Ekanayake</h1>
-<h3 align="center">IT Undergraduate | Aspiring Full Stack Developer | MERN Enthusiast from Sri Lanka 🇱🇰</h3>
+<h3 align="center">An IT Undergraduate passionate about Full Stack Development & MERN Stack from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viraj992&label=Profile%20views&color=0e75b6&style=flat" alt="viraj992" />
@@ -8,10 +8,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 IT Undergraduate | Passionate about full stack development  
-- 💻 Currently working on MERN stack projects & exploring mobile app development  
-- 🌱 Learning Flutter development, Angular basics 
-- 📫 Reach me: `virajekanayake479@gmail.com`
+- 🎓 IT Undergraduate currently exploring software engineering
+- 💻 Passionate about Full Stack Development (MERN)
+- 🌱 Learning cloud deployment, mobile app dev & testing tools
+- 📫 Reach me: `viraj.brilliant99@gmail.com`
 
 ---
 
@@ -64,6 +64,21 @@
 
 ---
 
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=viraj992&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=viraj992&theme=light" alt="GitHub Contribution Graph" />
+</p>
+
+---
 
 ### 🌐 Connect With Me
 
