@@ -87,18 +87,4 @@
 
 ---
 
-### 📊 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=viraj992&theme=light" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://fb.com/viraj ekanayake" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/viraj.brilliant99" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/c/rhythm rodz" target="blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" /></a>
-</p>  
