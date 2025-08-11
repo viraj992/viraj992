@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Viraj Ekanayake</h1>
 <h3 align="center">An IT Undergraduate passionate about Full Stack Development & MERN Stack from Sri Lanka 🇱🇰</h3>
 
-
-
 ---
 
 ### 🧑‍💻 About Me
 - 🎓 IT Undergraduate currently exploring software engineering  
 - 💻 Passionate about Full Stack Development (MERN)  
-- 🌱 Learning mobile App development  
+- 🌱 Learning Mobile App Development  
 - 📫 Reach me: `virajekanayake479@gmail.com`
 
 ---
@@ -30,6 +28,7 @@
 #### 📱 Mobile Development  
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
 <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
 
 </div>
 
@@ -37,7 +36,7 @@
 
 #### 🧰 Backend  
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
 
 </div>
 
@@ -46,7 +45,7 @@
 #### 🗄️ Databases  
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
 
 </div>
 
@@ -56,6 +55,8 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> 
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
+<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
 
 </div>
 
@@ -66,7 +67,6 @@
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
 
 </div>
 
@@ -86,6 +86,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=viraj992&theme=default" alt="GitHub Streak" />
 </p>
-
----
-
